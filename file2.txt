@@ -1,2 +1,0 @@
-file2 version 1
-version 2
